@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial;
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  p {
+    font-family: Arial;
+    color: white;
+    border: blue;
+  }
+h2 {
+    color: red;
+    background-color: orange;
+    border: 1px solid black;
+  }
+ 
