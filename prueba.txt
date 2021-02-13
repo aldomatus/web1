@@ -7,3 +7,4 @@ y estudio para data scientist ahora
 prueba cabecera 
 regreso al main
 sepracion de cabcera del main
+sigo modificando con cabecera
