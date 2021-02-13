@@ -1,6 +1,6 @@
 hola
 soy aldo matus
-vivo en mexico
+vivo en oaxaca mexico
 soy programador 
 tengo 22 años
 y estudio para data scientist ahora
