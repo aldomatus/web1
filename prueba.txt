@@ -10,3 +10,4 @@ sepracion de cabcera del main
 sigo modificando con cabecera
 cambio 2 para cabecera
 cambio 3 para cabecera
+cambio desde github
