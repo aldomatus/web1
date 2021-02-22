@@ -16,3 +16,4 @@ Como sabemos la I.A ha tenido enormes avances los ultimos años haciendo cada ve
 
 #### Temas de machine learning abordados en este portafolio
 * Redes Neuronales
+* Árboles de decisión
