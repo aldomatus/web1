@@ -15,3 +15,4 @@ Como sabemos la I.A ha tenido enormes avances los ultimos años haciendo cada ve
 > Por otro lado, en México el costo de contar con datos de calidad, infraestructura suficiente y viabilidad financiera para implementar los proyectos sigue siendo alto. Desde la perspectiva de Long, "en cuestión de valor agregado puede haber proyectos de IA muy buenos, pero cuando sale el costo final, todavía sale más caro contar con este tipo de recursos que contar con una persona y al final en el balance del proyecto, desde nuestra perspectiva, tiene que ser más barata la tecnología que una persona".
 
 #### Temas de machine learning abordados en este portafolio
+* Redes Neuronales
